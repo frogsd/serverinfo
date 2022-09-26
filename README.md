@@ -30,10 +30,13 @@ HTTP_CONNECTION
 HTTP_HOST
 SERVER_NAME ......etc
 
+also can use in termux to extra info your device
 
-#Visit our site 
 
-https://hackwapi.com
+
+#my telegram
+
+https://t.me/frogsec
 
 " coded by Team-Z3roday " 
 
